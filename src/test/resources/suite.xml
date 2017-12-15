@@ -1,0 +1,15 @@
+<suite name="suite" >
+
+ <test name="test" >
+
+ <classes> 
+ <class name="co.com.velocitypartners.test.casos.TestCliente" />
+  <class name="co.com.velocitypartners.test.casos.TestLogin" />
+ 
+ 
+ 
+ </classes>
+
+ </test>
+
+ </suite>
