@@ -31,7 +31,9 @@ class TestAvianca extends  TestBase {
 
         then:
             res==true
-        println 'then'
+            println 'then esto dio'
+
+
 
 
         where:
